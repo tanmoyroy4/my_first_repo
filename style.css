@@ -135,7 +135,8 @@ nav#example-3 {
 
 
      *{
-      background-color: #6e6d6d;
+      background-color: rgb(7, 128, 241);
+      
       
      }
 
@@ -216,4 +217,5 @@ nav#example-3 {
     width: 28%;
     border-radius: 30%;
    }
+   
 
