@@ -1,0 +1,219 @@
+nav#example-3 {
+    background-color: #414141;
+  }
+  
+  nav#example-3 ul {
+    padding: 0;
+    margin: 0;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  
+  nav#example-3 ul li {
+    list-style: none;
+  }
+  
+  nav#example-3 ul li a {
+    text-transform: uppercase;
+    font-size: 16px;
+    color: #FF9800;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: block;
+    background-color: #575656;
+    border-right: 1px solid #454444;
+    border-left: 1px solid #6e6d6d;
+    -webkit-transition: all 0.7s ease-in-out;
+    transition: all 0.7s ease-in-out;
+  }
+  
+  nav#example-3 ul li.active a, nav#example-3 ul a:hover {
+    color: #FFFFFF;
+    text-shadow: 2px 7px 5px rgba(0, 0, 0, 0.3), 0px -4px 10px rgba(255, 255, 255, 0.3);
+  }
+
+  
+    
+
+
+
+    .center {
+        float: right;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+      }
+
+      .centerr {
+        float: right;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 35%;
+      }
+      .centere {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+
+      div.container {
+        text-align: center;
+      }
+      
+      ul.myUL {
+        display: inline-block;
+        text-align: left;
+        font-size: xx-large;
+      }
+      .poo{
+        text-align: center;
+        color: #FF9800;
+      width: 40%;
+      font-size: xx-large;
+      
+  
+      }
+      .oo{
+      
+        text-align: justify;
+        font-size: 100%;
+        text-align: center;
+      width: 40%;
+
+      color: aqua;
+      }
+
+      
+     
+    
+     .yu{
+      border-radius: 80px;
+      border: 10px solid blue;
+     width: 25%;
+     float: right;
+     
+     }
+     .yuoo{
+      border-radius: 908px;
+    
+     width: 25%;
+     float: center;
+     border: 10px solid red;
+
+
+
+
+
+
+     
+     }
+     .yuo{
+      border-radius: 100px;
+      border: 10px solid yellow;
+     width: 25%;
+     float: left;
+     
+     }
+     .kk{
+     
+     
+      
+      border: 5px solid red;
+     }
+
+
+
+
+
+     *{
+      background-color: #6e6d6d;
+      
+     }
+
+
+
+     .i{
+      border: 3px solid yellow;
+      border-radius: 20px;
+      width: 20%;
+      padding: 0%;
+      
+      margin: 20px 20px 30px 30px;
+      
+     }
+     .ip{
+      border: 3px solid yellow;
+      border-radius: 20px;
+      width: 22%;
+      padding: 0%;
+      float: left;
+      
+      margin: 20px 20px 30px 30px;
+      
+     }
+     .mmm{
+      text-align: center;
+      width: 100%;
+     
+
+      color: aqua;
+      
+     }
+     .button{
+      text-align: right;
+      color: #FF9800;
+     }
+
+
+     
+
+
+
+
+
+    
+
+   
+
+
+
+
+
+
+     button{
+      font-size: 32px;
+      font-weight: 700;
+      padding: 20px;
+      margin: 30px;
+      width: 350px;
+      background: #ebeef1;
+      cursor: pointer;
+      border: none;
+      border-radius: 50px;
+      color: #00a037;
+      box-shadow: 10px 10px 10px -1px rgba(10,99,169,0.16),
+      -10px -10px 10px -1px rgba(255, 255, 255, 0.70);
+  }
+  button.reject{
+      color: rgb(255, 0, 0);
+  }
+  button i{
+      margin-right: 20px;
+  }
+
+  .centero{
+    float: right;
+    border: 3px solid red;
+    width: 28%;
+    border-radius: 30%;
+   }
+
